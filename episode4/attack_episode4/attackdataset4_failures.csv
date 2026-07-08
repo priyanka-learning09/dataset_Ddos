@@ -1,0 +1,18 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+POST,Normal_Browse,RemoteDisconnected('Remote end closed connection without response'),34651,2026-07-07T13:55:43Z,2026-07-07T14:49:45Z
+POST,Normal_Browse,HTTPError('502 Server Error: Bad Gateway for url: Normal_Browse'),110,2026-07-07T13:55:57Z,2026-07-07T14:49:13Z
+POST,Warning_Sim,HTTPError('504 Server Error: Gateway Time-out for url: Warning_Sim'),28,2026-07-07T14:17:59Z,2026-07-07T14:19:54Z
+POST,Malicious_Flood,"ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)",9123,2026-07-07T13:55:44Z,2026-07-07T14:49:35Z
+POST,Normal_Browse,"ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)",3,2026-07-07T15:04:21Z,2026-07-07T15:04:22Z
+POST,Normal_Browse,HTTPError('500 Server Error: Internal Server Error for url: Normal_Browse'),32,2026-07-07T13:56:01Z,2026-07-07T14:49:12Z
+POST,Warning_Sim,HTTPError('502 Server Error: Bad Gateway for url: Warning_Sim'),163,2026-07-07T13:55:57Z,2026-07-07T14:49:13Z
+POST,Malicious_Flood,HTTPError('502 Server Error: Bad Gateway for url: Malicious_Flood'),362,2026-07-07T13:55:58Z,2026-07-07T14:49:13Z
+POST,Malicious_Flood,RemoteDisconnected('Remote end closed connection without response'),31119,2026-07-07T13:55:44Z,2026-07-07T14:49:43Z
+POST,Warning_Sim,HTTPError('500 Server Error: Internal Server Error for url: Warning_Sim'),50,2026-07-07T13:56:00Z,2026-07-07T14:49:12Z
+POST,Normal_Browse,HTTPError('504 Server Error: Gateway Time-out for url: Normal_Browse'),24,2026-07-07T14:00:51Z,2026-07-07T14:19:54Z
+POST,Warning_Sim,RemoteDisconnected('Remote end closed connection without response'),47834,2026-07-07T13:55:43Z,2026-07-07T15:04:22Z
+POST,Malicious_Flood,HTTPError('500 Server Error: Internal Server Error for url: Malicious_Flood'),16,2026-07-07T13:56:01Z,2026-07-07T14:49:12Z
+POST,Malicious_Flood,HTTPError('504 Server Error: Gateway Time-out for url: Malicious_Flood'),32,2026-07-07T14:18:17Z,2026-07-07T14:19:54Z
+POST,Warning_Sim,"ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)",5,2026-07-07T14:12:59Z,2026-07-07T15:04:22Z
+POST,Warning_Sim,"ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)",12018,2026-07-07T13:55:43Z,2026-07-07T14:49:44Z
+POST,Normal_Browse,"ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)",9629,2026-07-07T13:55:44Z,2026-07-07T14:49:38Z
