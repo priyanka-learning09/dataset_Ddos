@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+POST,Normal_Browse,HTTPError('502 Server Error: Bad Gateway for url: Normal_Browse'),9,2026-07-07T10:37:27Z,2026-07-07T11:28:15Z
+POST,Warning_Sim,HTTPError('502 Server Error: Bad Gateway for url: Warning_Sim'),30,2026-07-07T10:37:27Z,2026-07-07T11:32:05Z
+POST,Malicious_Flood,HTTPError('502 Server Error: Bad Gateway for url: Malicious_Flood'),71,2026-07-07T10:37:27Z,2026-07-07T11:32:06Z
